@@ -32,10 +32,10 @@ A selection of personal projects and learning exercises. These are separate from
 | Repository | Focus |
 | --- | --- |
 | [Next.js portfolio](https://github.com/neelesh0406/portfolio-yt-2) | Foldfolio: Apple Duo inspired portfolio built with TypeScript, Sanity, Tailwind CSS, and Framer Motion |
+| [Full stack Social Media App](https://github.com/neelesh0406/codeial-react)| Codeial : React, Node, Postgres app with signup/signin, users, avatars etc. PRE-AI era app development |
 | [MERN ecommerce](https://github.com/neelesh0406/ecommerce-mern) | Ecommerce application with an admin panel and shopping cart |
 | [React Router](https://github.com/neelesh0406/react-router-course) | React Router v6.4 example application |
 | [Redux Toolkit todo](https://github.com/neelesh0406/redux-toolkit-todo) | Redux Toolkit learning project |
-| [React hooks](https://github.com/neelesh0406/react_hooks) | React hooks practice and examples |
 | [React dropdown](https://github.com/neelesh0406/react-dropdown) | Dropdown component exercise |
 
 ### Currently exploring
